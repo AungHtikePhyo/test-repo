@@ -1,5 +1,5 @@
-# import sys
-# from os import rename
+import sys
+from os import rename
 
 import requests
 
